@@ -1,2 +1,2 @@
-# PhD-defense-presentation
-PhD Dissertation Defense Slides
+# PhD dissertation defense slides
+For this we used Libreoffice impress and inkscape.
